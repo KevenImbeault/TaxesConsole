@@ -90,7 +90,7 @@ int menu2() {
         float NewTPS;
         cout << "Entrer le nouveau taux (en pourcentage) : ";
         cin >> NewTPS;
-
+//TODO
         TPS = NewTPS/100;
     } else if (Choix == 2) {
         float NewTVQ;
