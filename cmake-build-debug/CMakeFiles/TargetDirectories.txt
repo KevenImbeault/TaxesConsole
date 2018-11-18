@@ -1,0 +1,3 @@
+C:/Users/Keven Imbeault/CLionProjects/TaxesConsole/cmake-build-debug/CMakeFiles/TaxesConsole.dir
+C:/Users/Keven Imbeault/CLionProjects/TaxesConsole/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Keven Imbeault/CLionProjects/TaxesConsole/cmake-build-debug/CMakeFiles/rebuild_cache.dir
